@@ -1,0 +1,18 @@
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.dbmdl
+*.jfm
+*.cache
+*.props
+
+StyleCop.Cache
+
+.vs/
+bin/
+obj/
+TestResults/
+packages/
+node_modules/
